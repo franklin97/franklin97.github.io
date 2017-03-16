@@ -46,42 +46,42 @@ $( document ).ready(function() {
           strokeOpacity: 1.0,
           strokeWeight: 2
         });
-        var image = 'walking.png';
+        var image = 'franklin97.github.io/walking.png';
         person = new google.maps.Marker({
           position: {lat:36.2021, lng: 37.13426},
           map: map,
           icon: image
         });
 
-        var image = 'location-icon.png';
+        var image = 'franklin97.github.io/location-icon.png';
         var beachMarker2 = new google.maps.Marker({
           position:  {lat:33.5133, lng: 36.2767},
           map: map,
           icon: image
         });
 
-        var image = 'market.png';
+        var image = 'franklin97.github.io/market.png';
         var beachMarker3 = new google.maps.Marker({
           position:  {lat:35.8080, lng: 37.2550},
           map: map,
           icon: image
         });
 
-        var image = 'restaurante.gif';
+        var image = 'franklin97.github.io/restaurante.gif';
         var beachMarker5 = new google.maps.Marker({
          position:  {lat:34.8080, lng: 37.2550},
          map: map,
           icon: image
         });
 
-        var image = 'Warning.png';
+        var image = 'franklin97.github.io/Warning.png';
         var beachMarker6 = new google.maps.Marker({
           position:  {lat:33.8080, lng: 36.2550},
           map: map,
           icon: image
         });
         
-        var image = 'hotel.png';
+        var image = 'franklin97.github.io/hotel.png';
         var beachMarker6 = new google.maps.Marker({
          position:  {lat:34.1080, lng: 36.8},
         map: map,
