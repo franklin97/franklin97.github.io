@@ -79,9 +79,9 @@ $( document ).ready(function() {
           position:  {lat:33.8080, lng: 36.2550},
           map: map,
           icon: image
-        });
+        }); 
         
-        var image = '/hotel.png';
+        var image = 'franklin97.github.io/hotel.png';
         var beachMarker6 = new google.maps.Marker({
          position:  {lat:34.1080, lng: 36.8},
         map: map,
